@@ -54,4 +54,4 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 Made by [Aurora Ryunix]
 
 Questions or feedback? [Create an issue](https://github.com/AuroraRyunix/PWR-auto-installer/issues).
-```
+
