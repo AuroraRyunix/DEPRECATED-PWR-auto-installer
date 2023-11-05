@@ -1,7 +1,7 @@
 ```markdown
 # PWR-RUN
 
-PWR-RUN is a simple shell script for managing the PWR Runner application. It automates the process of starting and restarting the PWR Runner application and provides a convenient way to configure the application's arguments and password.
+PWR-RUN is a simple shell script for managing the PWR Validator Nodes. It automates the process of starting and restarting the PWR Runner application and provides a convenient way to configure the application's arguments (like IP wallet adres etc) and password.
 
 ## Features
 
@@ -13,7 +13,7 @@ PWR-RUN is a simple shell script for managing the PWR Runner application. It aut
 ## Prerequisites
 
 - Linux-based operating system (e.g., Debian, Ubuntu, CentOS, Fedora, Arch Linux)
-- OpenJDK 19 (Java Runtime Environment)
+- OpenJDK 19 (Java Runtime Environment) will be automatically installed
 
 ## Installation
 
