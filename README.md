@@ -45,7 +45,9 @@ After installation, the PWR Runner application will automatically start on syste
 
 ```
 PWR-RUN.sh
+```
 or
+```
 sh $HOME/PWR-runner/PWR-RUN.sh
 ```
 
