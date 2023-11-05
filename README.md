@@ -40,7 +40,7 @@ This script will check if Java is installed and install it if necessary, create 
 
 After installation, the PWR Runner application will automatically start on system reboot. If you wish to run it manually, execute the following command:
 
-```shell
+```
 PWR-RUN.sh
 ```
 
@@ -54,7 +54,5 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 
 Made by [Aurora Ryunix]
 
-Questions or feedback? [Create an issue](https://github.com/your-username/PWR-RUN/issues).
+Questions or feedback? [Create an issue](https://github.com/AuroraRyunix/PWR-auto-installer/issues).
 ```
-
-Remember to replace `your-username` with your actual GitHub username in the README.md.
