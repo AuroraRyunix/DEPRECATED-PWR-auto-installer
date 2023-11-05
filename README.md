@@ -1,5 +1,3 @@
-Certainly, here's the raw README.md:
-
 ```markdown
 # PWR-RUN
 
