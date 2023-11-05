@@ -63,7 +63,7 @@ Made by [Aurora Ryunix]
 
 Questions or feedback? [Create an issue](https://github.com/AuroraRyunix/PWR-auto-installer/issues).
 
-# CONTRIBUTE
+# contribute
 
 If you want to contribute, feel free to buy me a coffee (: https://ko-fi.com/jaydenryunix
 
