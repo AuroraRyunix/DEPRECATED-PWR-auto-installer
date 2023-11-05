@@ -14,7 +14,8 @@ PWR-RUN is a simple shell script for managing the PWR Validator Nodes. It automa
 ![PWRsystemERROR Image](https://github.com/AuroraRyunix/PWR-auto-installer/blob/main/error-images/PWRsystemERROR.png)
 ## Prerequisites
 
-- Linux-based operating system (e.g., Debian, Ubuntu, CentOS, Fedora, Arch Linux)
+- Linux-based operating system (e.g., Debian, Ubuntu, Redhat, CentOS, Fedora, Arch Linux)
+- It will work under any linux system with cron, but will only properly install openjdk for the previously mentioned systems
 - OpenJDK 19 (Java Runtime Environment) will be automatically installed
 
 ## Installation
@@ -22,7 +23,7 @@ PWR-RUN is a simple shell script for managing the PWR Validator Nodes. It automa
 1. Clone or download this repository to your local machine.
 
 ```shell
-git clone https://github.com/your-username/PWR-RUN.git
+git clone https://github.com/AuroraRyunix/PWR-auto-installer/
 ```
 
 2. Run the installation script with root privileges to set up PWR-RUN and make sure it's executable:
@@ -44,6 +45,8 @@ After installation, the PWR Runner application will automatically start on syste
 
 ```
 PWR-RUN.sh
+or
+sh $HOME/PWR-runner/PWR-RUN.sh
 ```
 
 The `PWR-RUN.sh` script can be used to manually start or restart the PWR Runner application.
