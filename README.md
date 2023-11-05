@@ -9,8 +9,8 @@ PWR-RUN is a simple shell script for managing the PWR Validator Nodes. It automa
 - **Argument Configuration:** Edit the `arguments.txt` file to specify the commands you want to run.
 - **Password Configuration:** Edit the `password.txt` file to provide the required password.
 - **ERROR HANDLING** automatically shows errors in a GTK window, and allows you to directly fix them using interactive buttons
-![Error Image](https://github.com/AuroraRyunix/PWR-auto-installer/blob/main/error-images/error-typical.png)
 
+![Error Image](https://github.com/AuroraRyunix/PWR-auto-installer/blob/main/error-images/error-typical.png)
 
 ## Prerequisites
 
