@@ -11,7 +11,7 @@ PWR-RUN is a simple shell script for managing the PWR Validator Nodes. It automa
 - **ERROR HANDLING** automatically shows errors in a GTK window, and allows you to directly fix them using interactive buttons (the "edit arguments" button wil open the default text editor and allow you to interactively change what's needed)
 
 ![Error Image](https://github.com/AuroraRyunix/PWR-auto-installer/blob/main/error-images/error-typical.png)
-
+![PWRsystemERROR Image](https://github.com/AuroraRyunix/PWR-auto-installer/blob/main/error-images/PWRsystemERROR.png)
 ## Prerequisites
 
 - Linux-based operating system (e.g., Debian, Ubuntu, CentOS, Fedora, Arch Linux)
