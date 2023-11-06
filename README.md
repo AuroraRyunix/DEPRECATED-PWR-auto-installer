@@ -1,4 +1,4 @@
-# PWR-RUN
+# DEPRECATED  PWR-RUN DEPRECATED 
 
 PWR-RUN is a simple shell script for managing the PWR Validator Nodes. It automates the process of starting and restarting the PWR Runner application and provides a convenient way to configure the application's arguments (like IP wallet adres etc) and password.
 
